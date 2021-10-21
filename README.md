@@ -1,11 +1,11 @@
-# ![](https://img.shields.io/badge/dbt-informational?style=flat&logo=dbt&logoColor=white&color=FF694B) Fundamentals
+# dbt Fundamentals
 - Learn more about dbt [in the docs](https://docs.getdbt.com/docs/introduction)
 - Check out [Discourse](https://discourse.getdbt.com/) for commonly asked questions and answers
 - Join the [chat](http://slack.getdbt.com/) on Slack for live discussions and support
 - Find [dbt events](https://events.getdbt.com) near you
 - Check out [the blog](https://blog.getdbt.com/) for the latest news on dbt's development and best practices
 ## Table of Contents
-- [! Fundamentals](#-fundamentals)
+- [dbt Fundamentals](#dbt-fundamentals)
   - [Table of Contents](#table-of-contents)
 - [Who is an analytics engineer?](#who-is-an-analytics-engineer)
   - [Traditional Data Teams](#traditional-data-teams)
